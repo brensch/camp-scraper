@@ -1,0 +1,30 @@
+{
+  "campsites": {
+    "906": {
+      "availabilities": {
+        "2022-10-02T00:00:00Z": "Reserved",
+        "2022-10-03T00:00:00Z": "Reserved",
+        "2022-10-04T00:00:00Z": "Reserved",
+        "2022-10-05T00:00:00Z": "Reserved",
+        "2022-10-06T00:00:00Z": "Reserved",
+        "2022-10-07T00:00:00Z": "Reserved",
+        "2022-10-08T00:00:00Z": "Reserved",
+        "2022-10-09T00:00:00Z": "Reserved",
+        "2022-10-10T00:00:00Z": "Reserved",
+        "2022-10-11T00:00:00Z": "Reserved"
+      },
+      "campsite_id": "906",
+      "campsite_reserve_type": "Site-Specific",
+      "campsite_type": "STANDARD NONELECTRIC",
+      "capacity_rating": "Single",
+      "loop": "Lower Pines",
+      "max_num_people": 6,
+      "min_num_people": 0,
+      "site": "003",
+      "type_of_use": "Overnight",
+      "campsite_rules": null,
+      "quantities": {}
+    }
+  },
+  "count": 75
+}
